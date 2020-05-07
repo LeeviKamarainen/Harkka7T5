@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harkka7T5</string>
+    <string name="teksti">Teksti</string>
+    <string name="button">Button</string>
+    <string name="tiedostonimi">Tiedostonimi</string>
+    <string name="tallenna">Tallenna</string>
+    <string name="lue">Lue</string>
+</resources>
